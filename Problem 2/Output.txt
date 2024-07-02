@@ -1,0 +1,19 @@
+{
+    "companyName": "Seshadri Rao Gudlavalleru Engineering College",
+    "clientID": "1fa995b0-60f3-4ccc-9787-f9de1a249bb0",
+    "clientSecret": "aGVaFLarWNMVBZjL",
+    "ownerName": "Dintakurthi Aakanksha Sai",
+    "ownerEmail": "aakankshasai04@gmail.com",
+    "rollNo": "21481A4214"
+}
+
+
+
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5OTAxMjM5LCJpYXQiOjE3MTk5MDA5MzksImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjFmYTk5NWIwLTYwZjMtNGNjYy05Nzg3LWY5ZGUxYTI0OWJiMCIsInN1YiI6ImFha2Fua3NoYXNhaTA0QGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6IlNlc2hhZHJpIFJhbyBHdWRsYXZhbGxlcnUgRW5naW5lZXJpbmcgQ29sbGVnZSIsImNsaWVudElEIjoiMWZhOTk1YjAtNjBmMy00Y2NjLTk3ODctZjlkZTFhMjQ5YmIwIiwiY2xpZW50U2VjcmV0IjoiYUdWYUZMYXJXTk1WQlpqTCIsIm93bmVyTmFtZSI6IkRpbnRha3VydGhpIEFha2Fua3NoYSBTYWkiLCJvd25lckVtYWlsIjoiYWFrYW5rc2hhc2FpMDRAZ21haWwuY29tIiwicm9sbE5vIjoiMjE0ODFBNDIxNCJ9.A_ifpZuSVXeo4a6fz6qDwaCn9EzCZSXluxKiKu09Nfo",
+    "expires_in": 1719901239
+}
